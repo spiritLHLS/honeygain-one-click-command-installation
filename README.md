@@ -55,6 +55,8 @@ uninstall service
 
 The platform does not allow data center traffic, so it can only be shared using home bandwidth or similar.
 
+**It must be noted that this hanger must be 100% sure that you are a home broadband server, or that the traffic of your home computer can be hung directly, but others cannot. If you hang up too much, you will be banned!**
+
 ## Disclaimer
 
 This program is for learning purposes only, not for profit, please delete it within 24 hours after downloading, not for any commercial use. The text, data and images are copyrighted, if reproduced, please indicate the source.
