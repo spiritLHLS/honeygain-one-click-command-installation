@@ -1,4 +1,5 @@
 #!/bin/bash
+#FROM https://github.com/spiritLHLS/honeygain-one-click-command-installation
 
 # 定义容器名
 NAME='honeygain'
