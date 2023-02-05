@@ -8,7 +8,7 @@
 
 The honeygain is an option that allows users to earn money by sharing your traffic.
 
-You'll receive $0.10 for the 1G traffic you share, and this script supports data center network or home bandwidth.
+You'll receive $0.10 for the 1G traffic you share, and this script just supports home bandwidth.
 
 It has below features:
 
