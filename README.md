@@ -22,7 +22,7 @@ It has below features:
 
 ## Notes
 
-- Verified on AMD64 and ARM
+- Verified on AMD64
 - Try it if you are interested via my --> [referrals](https://r.honeygain.me/SPIRICF6DB) <--, you will get 5 dollar.
 
 ## Install
